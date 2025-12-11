@@ -1,2 +1,10 @@
-# plucky-plasma-project
-A formal project developed as part of my coursework, featuring detailed explanation and structured code.
+# Plucky Plasma Project
+
+This is my college project website on **Plucky Plasma**.  
+It explains the concept, demonstrates examples, and provides a structured presentation.
+
+## Files
+- `index.html` → main webpage
+- `style.css` → styling
+- `script.js` → interactivity
+- `images/` → project images
